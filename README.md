@@ -1,3 +1,3 @@
 # Web-Scraping-Project
 
-Scraped over 1k observations regarding soccer referee statistics from the top 5 leagues in the world using Selenium.
+Scraped over 1k observations of soccer referee statistics from the top 5 leagues in the world using Selenium.
